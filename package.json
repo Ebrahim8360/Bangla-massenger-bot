@@ -1,0 +1,15 @@
+{
+  "name": "bangla-messenger-bot",
+  "version": "1.0.0",
+  "description": "Bangla Messenger AI Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
